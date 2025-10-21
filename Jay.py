@@ -1,10 +1,15 @@
-#This is a commit
-
+#This is a comment
 ,,,
-This is a multiple line
-comment using triple single quotes
+This is a multiple
+line comment
 ,,,
 
 
-This is another multiple linecommit. This time using triple double quotes
-"""
+This is another multiple linecommit.
+This time using triple 
+double quote 
+#comment using the hash symbol
+
+ print("
+ (Hello, world")
+ 
